@@ -1,0 +1,2 @@
+# minimal
+WordPress starter theme
